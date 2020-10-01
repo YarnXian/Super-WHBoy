@@ -2,5 +2,4 @@ Super WHBoy
 =
 Project Introduction
 -
-*It is written in easy language.
-
+* It is written in easy language.
