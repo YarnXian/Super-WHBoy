@@ -10,5 +10,6 @@ Project Introduction
   * c.Destroy the opening mode of some files so that they cannot be opened; 
   * d. Shut down the computer after 10 minutes;
   * e.Open a web page every 18 seconds; 
-  * f.Close CMD, tasklist and regedit every 1 second; 6. Destroy the hard disk host Boot record.
+  * f.Close CMD, tasklist and regedit every 1 second; 
+  * g. Destroy the hard disk host Main Boot Record.
 * Detoxification method: first use disk tool to search for the lost partition and recover it, then rebuild the boot record and enter the system, then run the detoxification program. Or contact the author.
