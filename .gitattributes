@@ -1,2 +1,2 @@
-*.e linguist-language=C++
-*.exe linguist-language=ELanguage
+*.e linguist-language=E
+*.exe linguist-language=E
