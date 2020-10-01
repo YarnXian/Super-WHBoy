@@ -11,5 +11,7 @@ Project Introduction
   * d. Shut down the computer after 10 minutes;
   * e.Open a web page every 18 seconds; 
   * f.Close CMD, tasklist and regedit every 1 second; 
-  * g. Destroy the hard disk host Main Boot Record.
+  * g.Destroy the hard disk host Main Boot Record.
 * Detoxification method: first use disk tool to search for the lost partition and recover it, then rebuild the boot record and enter the system, then run the detoxification program. Or contact the author.
+* The virus also has some vulnerabilities:
+>You can call up the file extension through the folder option in the control panel, and change the suffix of CMD, tasklist or regedit to com, so that you can open the program and use it.
