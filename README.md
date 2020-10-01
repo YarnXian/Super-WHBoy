@@ -3,7 +3,7 @@ Super WHBoy
 Project Introduction
 -
 * It is written in easy language.
-* There are  files: self starting.e is the program after the virus is added and started; main.e is the main body of the program, which runs only once;Killwhboy.e is the source code of antivirus program;killwhboy.exe Is the compiled antivirus program;Virus program ontology, please self compile
+* There are  files: self starting.e is the program after the virus is added and started; main.e is the main body of the program, which runs only once;Killwhboy.e is the source code of antivirus program;killwhboy.exe Is the compiled antivirus program;Compile The Virus:Compile the virus ontology.
 * Viral behavior:
   * a. Release self boot file and icon file in the root directory of the system; 
   * b. Modify the registry to change the default icon of EXE file to the icon file released under the root directory;
