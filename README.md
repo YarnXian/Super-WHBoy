@@ -15,4 +15,4 @@ Project Introduction
   * h.The computer will be Blue Screen of Death on the 1st of every month.
 * Detoxification method: first use disk tool to search for the lost partition and recover it, then rebuild the boot record and enter the system, then run the detoxification program. Or contact the author.If it is No.1, please adjust the time under PE or do not use the poisoned computer on the same day.
 * The virus also has some vulnerabilities:
->You can call up the file extension through the folder option in the control panel, and change the suffix of CMD, tasklist or regedit to com, so that you can open the program and use it.
+>>You can call up the file extension through the folder option in the control panel, and change the suffix of CMD, tasklist or regedit to com, so that you can open the program and use it.
