@@ -1,7 +1,6 @@
 Super WHBoy
 =
-Project Introduction
--
+**Project Introduction**  
 * It is written in easy language.
 * There are some files: self starting.e is the program after the virus is added and started; main.e is the main body of the program, which runs only once;Killwhboy.e is the source code of antivirus program;killwhboy.exe Is the compiled antivirus program;unknow:Necessary files for compiling or running virus Ontology.For more information, see wiki.
 * Viral behavior:
