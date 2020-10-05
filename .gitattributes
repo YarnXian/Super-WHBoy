@@ -1,2 +1,4 @@
 *.e linguist-language=E
 *.exe linguist-language=C++
+*.ec linguist-language=C
+*.md linguist-language=MarkDown
