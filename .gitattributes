@@ -1,2 +1,2 @@
-*.e linguist-language=Python
-*.exe linguist-language=Python
+*.e linguist-language=E
+*.exe linguist-language=C++
