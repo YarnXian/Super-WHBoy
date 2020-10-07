@@ -99,4 +99,4 @@ Super WHBoy
     `模拟按键 (字符 (取随机数 (65, 90)), 字符 (取随机数 (65, 90)), 字符 (取随机数 (65, 90)))`  
     `模拟按键 (字符 (取随机数 (65, 90)), 字符 (取随机数 (65, 90)), )`  
 `.计次循环尾 ()`  
-![avatar](/error.png)
+![](https://baike.baidu.com/pic/%E7%86%8A%E7%8C%AB%E7%83%A7%E9%A6%99/11050605/1/0df431adcbef76094b36d809c995b4cc7cd98d103046?fr=lemma&ct=single#aid=1&pic=0df431adcbef76094b36d809c995b4cc7cd98d103046)  
