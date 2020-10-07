@@ -19,8 +19,8 @@ Super WHBoy
 * The virus also has some vulnerabilities:
 >You can call up the file extension through the folder option in the control panel, and change the suffix of CMD, tasklist or regedit to com, so that you can open the program and use it.  
 **Code:**  
-# Main.e
-## Window assembly:
+# Main.e  
+## Window assembly:  
 `.版本 2  `  
 `.支持库 eAPI  `  
 `.程序集 窗口程序集_启动窗口  `  
