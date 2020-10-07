@@ -17,8 +17,7 @@ Super WHBoy
   * i.Press five random keys every 30 seconds.
 * Detoxification method: first use disk tool to search for the lost partition and recover it, then rebuild the boot record and enter the system, then run the detoxification program. Or contact the author.If it is No.1, please adjust the time under PE or do not use the poisoned computer on the same day.
 * The virus also has some vulnerabilities:
->You can call up the file extension through the folder option in the control panel, and change the suffix of CMD, tasklist or regedit to com, so that you can open the program and use it.  
-**Code:**  
+>You can call up the file extension through the folder option in the control panel, and change the suffix of CMD, tasklist or regedit to com, so that you can open the program and use it.   
 # Main.e  
 ## Window assembly:  
 `.版本 2  `  
@@ -100,3 +99,4 @@ Super WHBoy
     `模拟按键 (字符 (取随机数 (65, 90)), 字符 (取随机数 (65, 90)), 字符 (取随机数 (65, 90)))`  
     `模拟按键 (字符 (取随机数 (65, 90)), 字符 (取随机数 (65, 90)), )`  
 `.计次循环尾 ()`  
+![avatar](/error.png)
