@@ -12,8 +12,9 @@ Super WHBoy
   * d. Shut down the computer after 10 minutes;
   * e.Open a web page every 18 seconds; 
   * f.Close CMD, tasklist and regedit every 1 second; 
-  * g.Destroy the hard disk host Main Boot Record.(It doesn't happen on the 1st day of every month.)
+  * g.A warning is sent every 25 seconds.
   * h.The computer will be Blue Screen of Death on the 1st of every month.
+  * i.Press five random keys every 30 seconds.
 * Detoxification method: first use disk tool to search for the lost partition and recover it, then rebuild the boot record and enter the system, then run the detoxification program. Or contact the author.If it is No.1, please adjust the time under PE or do not use the poisoned computer on the same day.
 * The virus also has some vulnerabilities:
 >>You can call up the file extension through the folder option in the control panel, and change the suffix of CMD, tasklist or regedit to com, so that you can open the program and use it.
