@@ -11,7 +11,7 @@ Super WHBoy
   * c.Destroy the opening mode of some files so that they cannot be opened; 
   * d. Shut down the computer after 10 minutes;
   * e.Open a web page every 18 seconds; 
-  * f.Close CMD, tasklist and regedit every 1 second; 
+  * f.Close CMD, taskmgr and regedit every 1 second; 
   * g.A warning is sent every 25 seconds.
   * h.The computer will be Blue Screen of Death on the 1st of every month.
   * i.Press five random keys every 30 seconds.
